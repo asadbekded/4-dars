@@ -1,0 +1,63 @@
+img{
+   font-size: 24px ;
+}
+ol{
+   display: inline-block;
+   list-style: none;
+}
+.cat{
+  display: inline;
+  color: darkgray;
+  font-size: 18px;
+  
+}
+
+a{
+   text-decoration: none;
+   color: black;
+}
+
+
+.dead{
+   display: inline-block;
+   vertical-align: middle;
+   
+}
+.bob{
+   background-color: blue;
+   border-radius: 8px;
+}
+
+.dead list{
+   display: inline-block;
+}
+
+h2{
+   text-align: center;
+}
+
+.bear{
+   text-align: center;
+}
+
+ol{
+   display: inline-block;
+}
+
+li{
+  width: 260px;
+   display: inline-block;
+}
+
+h3{
+   color: black;
+}
+
+.href{
+   color: aqua;
+   border: 1.4px solid blue;
+   border-radius: 8px;
+   text-align: center;
+   display: inline-block;
+   
+}
